@@ -1,0 +1,2 @@
+# Ignore all builtin plugin and themes from diff.
+**/wp-content/**/* -diff -text -merge
